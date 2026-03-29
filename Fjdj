@@ -1,0 +1,317 @@
+rac���
+
+juego19.lu�=spine-lua.TextureRegion.lup?juego1_intro.lu4Y
+
+emitter.lu�^juego27_intro.luejuego26_intro.lu�kspine-lua.utils.lu wspine-lua.TextureWrap.lu�wspine-lua.TransformMode.lu�xjuego19_intro.lu�juego18_intro.lu��main.lu��
+
+confeti.lu��'spine-lua.vertexeffects.JitterEffect.luh�juego13_intro.lu@�juego12_intro.lu��'spine-lua.attachments.MeshAttachment.lu��
+
+juego28.lu�$emitterpompas.lu+	splash.lu�8celebratbuceo.lu8Dmobdebug.lu�spine-lua.SkeletonClipping.lu��intro.luP
+
+juego18.lu�5spine-lua.EventData.lu7	gameUI.lu�<juego10_intro2.lu8Npopup_manager.lu8Ujuego8_intro2.lu�j
+
+strokefont.lu`o
+
+juego27.lup�celebrat.lu�
+
+juego13.lu�4juego24.levels.lu bjuego11.cancion14.lu�ijuego11.cancion4.lu�lspine-lua.Slot.lu�r'spine-lua.attachments.PathAttachment.lu@vspine-lua.Atlas.lu�|spine-lua.AnimationState.lu��
+
+mazerebote.lut�juego5_intro2.lu��	juego4.lu��
+
+juego17.lu(
+
+juego23.lu�Xcelebrat2.lu�cspine-lua.MeshAttachment.lujjuego11.cancion10.lu�nbloques_colores.lu؛bolasdanzan.lu��#spine-lua.attachments.Attachment.lu��+spine-lua.attachments.ClippingAttachment.lu��juego7_intro.lu�juego6_intro.lu��	juego5.lu�	edujoy.lu1juego20_intro.lu�?juego21_intro.lu�Q
+
+juego22.luğspine-lua.SkeletonBounds.lu�juego11.cancion11.lut�juego11.cancion1.luT�connect4.lu�introrebote.lu�	leecsv.lu
+
+iap_badger.lu�z&spine-lua.vertexeffects.SwirlEffect.lu�emitterglobos.lu4�
+
+juego26.lu\�juego15_2.lu��	juego1.lu�
+
+juego12.lu��juego11.cancion15.luX�juego14_intro.luؿjuego15_intro.lu��juego11.cancion5.lu��juego3_intro2.lu�spine-lua.SlotData.lu��spine-lua.AttachmentType.lu\�spine.spine.lu�"spine-lua.AtlasAttachmentLoader.lu�spine-lua.Event.lu�
+
+
+
+juego15.lu�8	adfree.lu�V	juego6.lu �
+
+juego21.lu,�particleDesigner.lu0�spine.spiner.lu��	lluvia.lu��$spine-lua.TransformConstraintData.lu��
+
+inappcheck.lu8�juego11.cancion2.lu<	juego11.cancion12.lu�	spine-lua.TextureAtlasRegion.lu�	spine-lua.PathConstraint.luL 	(spine-lua.attachments.PointAttachment.lu�%	
+
+juego6_fin.lu8	
+
+utility.lu�E	rate.lu�P	spine-lua.AnimationStateData.lu�R	.spine-lua.attachments.BoundingBoxAttachment.lu�U	"spine-lua.BoundingBoxAttachment.lu<X	
+
+juego25.lu��	
+
+juego11.lu�
+
+	juego2.lu<V
+
+spine-lua.Animation.luh�
+
+juego11.cancion6.lu@�
+
+juego11.cancion16.lu�
+
+spine-lua.Skeleton.lu��
+
+ spine-lua.TransformConstraint.lu�
+
+juego24.luTgjuego9_intro.lu�ujuego8_intro.lu8�
+
+juego10.lu��	juego3.lu�juego11.cancion7.lu�
+
+spine-lua.BoneData.lu\
+
+juego11.cancion17.lu�juego10_intro.luX$juego11_intro.lu ,juego3_intro.lu�=juego2_intro.lu�@
+
+juego14.lu�ljuego24_intro.lus	juego7.lu��juego25_intro.lu$�
+
+juego20.lu��
+
+adsmanager.lu��juego11.cancion3.lu��juego11.cancion13.lu��spine-lua.Color.lu��	unlock.lu�
+
+juego28_intro.lu
+
+spine-lua.RegionAttachment.lu�
+
+spine-lua.BlendMode.luP
+
+spine-lua.Bone.lu�/
+
+juego17_intro.lu�?
+
+juego16_intro.lu8W
+
+spine-lua.AttachmentLoader.lu\
+
+'spine-lua.attachments.AttachmentType.lu]
+
+spine-lua.IkConstraint.lu`m
+
+juego11.cancion18.lud�
+
+juego11.cancion8.lu��
+
+juego4_intro.luě
+
+juego5_intro.lu�
+
+	juego8.lu��
+
+
+
+options.lu`�
+
+spine-lua.Interpolation.luD�
+
+)spine-lua.attachments.RegionAttachment.lu8
+
+juego23_intro.lu Ejuego22_intro.lup]spine-lua.Skin.luTjpremiumPopup.lu��juego15_intro2.lu��spine-lua.Triangulator.lu��	juego9.lup�spine-lua.PathConstraintData.lu�spine-lua.SkeletonJson.lu4*juego15_intro3.lu�9celebration.lu Nspine-lua.TextureFilter.luPObubblelevels.lu\d)spine-lua.attachments.VertexAttachment.lu`kmazegenerator.lu��spine-lua.TextureAtlas.lu �spine-lua.IkConstraintData.lu̕spine-lua.SkeletonData.lu�juego11.cancion9.lu��	config.lu((LuaQFA@�F�@\���������EA�M��O��AEA�M��O���������C��B��B��������B�BƂ�܂�CA����	��EE
+
+�D��EEEE
+
+�D�����	B���GE�Ƈ���A����	�
+
+������J���J���MA��
+
+���A������A��O�OPAP�P�M�
+
+�A����NOAO�O���A������M$������A�N�
+
+�����
+
+�
+
+�������N����ǎ��$���$O�$��O$���	�����$��dO��G�d��	���G	d�����GO	d�O��	���I������	
+
+AP
+
+��
+
+��
+
+AQ�O��
+
+�
+
+�
+
+��I������I����I���O�A�	���O�O�A����O�O�A����O�O�A���O^�2require	composer	newScenewidgetALTOtALTO@emitter4@ostimemathrandomseed�?printANCHOANCHOtjuegonJuegodisplayviewableContentWidthviewableContentHeight�?Y@@@fijacoordenadas�b@tapafigurasfuegos	victoria
+
+estrellas	finnivelcolocabotones
+
+desordenacolocafigurascomienzapuzzlecreate!Memoriza y encuentra las parejas%Memorize and find the Matching pairs1Mémorisez et trouvez les paires correspondantes+Memorizza e trova le coppie corrispondenti-Memorize e encontre os pares correspondentes;Запомни и найди подходящие пары3Merken Sie sich und finden Sie die passenden PaareshowhidedestroyaddEventListenerFV
+
+9A���DADA��A@D�A�@
+
+��D� A�D�� ��A��D��C̓�����������	��D���̓���������	��B���	@2@ffffff�?�?LEFT�?ANCHOtALTOtZ�DZ@@�F@@@��?�E�F����\@AHBHF@A����D��@�@A�B��@�����@���BF�A�O��	A���O��	A���R�O��	A��R�O��	A���D�R�	A��D�	A���D�R�	A��D�	A����EF��A������������A�����A�����A����A���BD�F��F��A��BD�F��F�A��	ƌ��FC	����FC	����FC	A���FC	����FC	A���FC	����FC	A���FC	����ED�F��F�F������������ρ�����ρ�������ρ������ρ�������������������������������A����CD	A����ED�F��F�������������Ǎ���A�����F�DAD�F��@@
+
+��DAAGD��F��F��������AG����Ɓ��@��B��@��B�F��CD��AHE�F���\BEFB�����\��H�@�E�F���\BAHB�H���@D�AAHA	�A	���@���&endedphaseaudioplaytargetremoveEventListenertouchidwidthtransitioncancelpathx1@x2x3x4y1y2y3y4fromtime�?alphadelayxScale{�G�z�?xy
+
+estrellastimerperformWithDelay��@	victoria0�@tapafiguras��	�D�@@E@F�������ʀ����@A�\@�E@F�������������@A�$�����\@�D��F��F���@BI��D��F��F���@BI��D��F��F����@BI���D��F��F����@BI��D��F��F�����I���D��F��F����I��D��F��F�����I���D��F��F����I��E@F���������Aʀ������ɀD�ɀD�ɀąɀD�ɀĆɀD�ɀćɀD�\@�D��F��F���@BI��D��F��F���@BI��D��F��F����@BI���D��F��F����@BI��D��F��F�����I���D��F��F����I��D��F��F�����I���D��F��F����I��E@F���������Aʀ������ɀD�ɀD�ɀąɀD�ɀĆɀD�ɀćɀD�\@�D��F��K���\@D��F��K���\@�widthtransitiontotimexScale{�G�z�?onCompletepathx1@x2x3x4y1y2y3y4delayaddEventListenertouch��D�@	@@�D@	@@�D�@D�	@�D@D�	@�@�@��alphaxScale��
+
+$@A@����AA�����A@��@`��DFA������BD�E�F����\��ł���C܂��\A_���createEmitteri@��@�������?�?�?p�@@emitmathrandom	particle @.png��B�DT�@���@�@��AA@����AE�@�@�������@�A��@@@�BA����@C���C��@D�@���DA�@���@��BA����@C���C���E�@���DA�@�����?SoundOnsoundvictoriaaudio
+
+loadSound
+
+mp3/win1.mp3play@nivelshowOverlaycelebrationisModaleffectfadetimeY@timerperformWithDelay �@	finnivel
+
+celebrat2$@�@��"��@�@���@@���A�A���A����AA������Ɓ�D����EFC�����\������A����toFrontcreateEmitterY@�v@�������?�������?�?��@ @emit	particlemathrandom@.png��@@�@@�@�@A�����removeSelftimerperformWithDelayi@comienzapuzzle��
+
+
+
+F@@����@A�@��A���`��EF�����A�A�AB\����I����I���I��A��D��A���C�B�A���DBAB�A����D��
+
+�N��	B�	�E�D�	B�D�	B��E�F��	B�d	B�����_��D�K���\@��display	newGroupmathrandom�?@	newImage/reves.pngxyidaddEventListenertouchinsertscale{�G�z�?transitiontodelayI@time@@xScaleyScaleeasingoutElasticonStart��EF@��\@�audioplay��	D� @��	�������@��A��@������F�����A������A�����?mathrandom�
+
+<@D�L@�H�D�N��@��A@H�D�\@�Cŀ�@����@�@AA����D�MB�N�LBB���DF���A�@��@AA�@��AƁ�BD܁�@���@������Ɂ���@�?print
+
+nparejas=    nelementos=mathrandom&	<@@���D��� @��DF��AA@��DK��\A�EFA��������A�\����AA�DF�B�A������ˁBD��AˁBD����A����	��������	��	����A�@��display	newGroup�?printinsert	newImage/carta.png
+
+objetos/obj_.pngscalexyalpha(3@�@����@��@�@�@@��@����A@�ostimefijacoordenadascolocabotones
+
+desordenacolocafigurastoFront59@�@��comienzapuzzle<U4�@��@��@��A�ADO����A�����@A����ŀAA�������@��܀����@�D�@�����BJ�IÅI�ÆI������EAL��	A��	�ĉAB��A��viewdisplay	newImage/fondo2.png@widthANCHOtxScale	newGroupinsert
+
+newButtondefaultFileimages/home.png	overFileimages/homep.png
+
+onReleasexLEFTH@yEI
+
+EF@���\@DI��D�F@�����\@�	audioplaySoundButton
+
+isVisible
+
+gotoSceneintrozoomInOutFade@@a|5�@�@����������A�AA��A�AA��A�AAA�A�AA���A�AA����AACA��EAF���\AADA������viewphasewilldidSoundOnaudio
+
+loadSound
+
+mp3/pop3.mp3mp3/negative4.mp3mp3/positive5.mp3mp3/positive2.mp3
+
+mp3/pop2.mp3MusicOnloadStreammusic/musica5.mp3playtimerperformWithDelayy@~�0�@�@�A��@�	��AA�W@A���ADA�W@A���AD�A�W@A���ADA�W@A���AD�A�@������viewphasewilltransitioncanceltimerdid���@�view��LuaQ	JI@����I��^�
+
+setmetatable__indexnew#1
+
+	@@�	�@�	�@�	���	�@�	���	�@�	�	���	�@�	���	�@�D���\@��
+
+renderObjectuvu2v2widthheightrotateoffsetXoffsetYoriginalWidthoriginalHeight��LuaQX%E�@\���������A��E�\���A��Ł���܁�BB@�BA��A���
+
+J��EDDE�F��\���	���	��$E�d������@�d��	�
+
+�@��d�	��@�dE�@��KE�\EKE�E\EKE��\EKE��\E��require	composer	newScenewidgetspine.spine
+
+spine.spinerostimemathrandomseedemitterjuegonJuegosystem	getTimercreateshowhidedestroyaddEventListener2
+
+VF@O@�����H���A������Ɓ����������Ɂ����Ɓ����������E�FB�NB�A���ˁ�E��A�������A߀���@�܀�������CEFA����D\�NA��
+
+A���AEEFA���A@\�NA�A������CEFA����E\�NA��
+
+A�����AEEFA���A@\�NA�A���time@�@�?	skeletongroup
+
+isVisiblestateupdate
+
+animSpeedapplyupdateWorldTransformsystem	getTimerxOxmathsin��@�@yOy>@C�@57	@A@��U�����@�
+
+gotoScenejuegonJuegofade�r@:t��@��@��@��A�AEOA����AA������A�����A������ŀ����AAJ�IAÃIAC�Ić܀�AADD���A��D��AE��D��ƋɁƌ�D�AI�G�	����GADF��	A�DF�	A���H�A�AA��BD���U�����AÃ�AC��ć��EAFA���
+
+B	I�	BE�	D�	Ƌ	�ƌ\�H�D����A	��I�I���D�K��\AD�I�ɄD�����FI��D����GI���D�K���AB\AA
+
+�����A��BJD��
+
+��
+
+@����C�A���������A��BJD��B�@����C�A���������A��BJD�
+
+�B
+
+�
+
+@����C�
+
+A���������A��BJD��B�@����C�A���������A��BJD��B�R����CDA��������A�
+
+�	�P�	BQ�	��܁���
+
+R�����R���A�E�A��A�BPJ�I�R�IS�I�����EBL�	B���	R�BR��B��Nviewdisplay	newImage/fondo1.pngANCHO@ALTOwidthANCHOtxScale	graphicsnewImageSheet/libelula1.pngI@height
+
+numFrames@
+
+newSpritename
+
+libelula1start�?counttime@o@
+
+loopCountxy(�@q@playOxOyscale/libelula2.png
+
+libelula2O@h@��?
+
+loadSkeletondad�f@y@reposo�������?arqueologiacookie�V@Ё@ffffff�?candy�l@��@�������?pudding`x@�@333333�?arqueologo��@�|@normalbuttonNEXT
+
+newButtondefaultFileimages/skip.png	overFileimages/skipp.png
+
+onReleaseRIGHTJ@insertbuttonBACKimages/home.pngimages/homep.pngLEFTVZEF@���\@F�@I@A�DF��������@�\@�audioplaySoundButtontarget
+
+isVisible
+
+gotoScenejuegonJuegofade�r@ei
+
+EF@���\@F�@I@A�DF�����A\@�
+
+audioplaySoundButtontarget
+
+isVisible
+
+gotoSceneintrofade�r@v�l�@�@���@��A�A�A������A
+
+inventoryrefactorTable	filenamecryptoisStoreAvailableapple
+
+errorMessagethe App StoregoogleGoogle PlayamazonAmazonnonea simulated app storegetLoadProductsCataloguegetLoadProductsFinishedjsonsystemDocumentsDirectoryCachesDirectoryTemporaryDirectoryprintInventorycreateRefactoredInventorycreateDefactoredInventorysaveInventoryloadInventorycheckProductExistsgetInventoryValueisInInventoryinventoryItemCountisInventoryEmptyemptyInventory#emptyInventoryOfNonConsumableItemsaddToInventoryremoveFromInventorysetInventoryValue
+
+setDebugModeconsumeAllPurchases
+
+getStoreNamegetTargetStoregetProductIdentifierFromNamerestore	purchaseinitsetCancelledListenersetFailedListenerfakeRestoreProductsprintLoadProductsCatalogue
+
+loadProductsgetVersion9�����������
+
+A@�^�@���L�����^�pairs�?�J���܀@���ŀ�@�AA�@�AA�@�ŀ��@���AA�@�ŀ�@��typetableprint	tostring {  }�o��܀�����@���E�\��@��@@���܀�������@A�����@��܁@��	��A�A����@�ACB�A��@�����B��CC@���C���U���A��A�E�F���ł�B��܂���\�����A��܁��@��A�A����BA�B�A@��A�A����@��A�������@��@����@�	tostringprint*typetablepairs[] =>  {stringrep len @@}] => ""$*@@�B�^E@�\@���a���B�^�pairs,:DF��\���W@@�������@������@�����@�A�����U�^�encodedigestmd5<M	*���ƀ��@��AA��@����@��������@܀�A�A@������D�\��B��A��A�AB��A���@�B^�
+
+error1Attempted to save a table to an invalid location@systempathForFileioopenwwritecloseOs	VK@�@A\�W��@�K�@��\���@����@AMA����@@�܀����@��AAD�F������������AAD�F������W����A��@�B��A�BA����B�A�A��W�C��A@��A�A��A�D�F��]^�sub�?{finddigestmd5emptyInventory
+
+errorMessagenative
+
+showAlertErrorFile error.OkerrorFile error occurreddecodeu�	+Z���@�@���@��@���Z@�D����A������@
+
+E�F����\��Z���A������܁�Ł�����A���error3Attempted to load a table from an invalid location@systempathForFileioopenrread*aclose����@�E�@��\@���@��B�^�error@Attempted to change the default location to an invalid location@��DF@���\@�printencode��D�@�C�^E@�\������^a�@�C�^�pairsname��D�@�C�^E@�\������^a�@�C�^�pairsrefactoredName��#�@@�������ŀ@�����@���F�W@���@�B�W@@���B����@�������������propertiespairsnamerefactoredNamerefactorFunction��#�@@�������ŀ@�����@���F�W@���@�B�W@@���B����@�������������propertiespairsrefactoredNamenamedefactorFunction� (@@��
+
+E@��\@����@�W@@�F�@W����@EB��\�������@�����a�@�	�a����pairsrefactoredName$E J�������D��\�W@���Ɓ�����������@����	���@�I�����^�pairsnameK\4D�D�FA�F��Z�	�����@���A��A�������	��@����@B@��A��A��������AƁ��A�܁������	������C@��A��C��B�AF�������	��!���pairsinventoryItemsproductTyperandom-integervaluemathrandom
+
+randomLowrandomHighrandom-decimal�?@�@random-hexstringformat0x%xbpD���D�\@�D\��@������@�@�@@��������w�D���C�@������@������@������������������DF�F�@���B^@�B�^�	products��DF����D�F@�F�Z��D�F@�F�F��Z@�A�^C�^DF�F�^�inventoryItemsreportMissingAsZerovalue��DF�^���D@�@�A^E��\��@a���pairs�?����W@�@����@��JH�E@�\������@���@WA@���AAa�@��pairsinventoryItemsproductTypenon-consumable��D��D�FA�F��F����@�DI�!�@��pairsinventoryItemsproductTypenon-consumable�� ��@��@@�@���
+
+A	����@��A��܀�����@���JAIA��	A��LA�	A���inventoryItemsproductTypenon-consumablevalue�?,?��@��@@�@@��������A����@�@����@��B����A@�܀���@�@���AA����AB����U��A�MA�	A����CD@��	A����A����inventoryItemsproductTypenon-consumableerrorHiap badger.removeFromInventory: attempt to remove non-consumable item () from inventory.consumable�?all;iap badger.removeFromInventory: attempted to removed more 6(s) than available in inventory (attempted to remove  from  available)value29
+
+��@���@�@���������@���value=C
+
+J����I�����^�pairsIY#��@@�����@@�W�@�H�@��@�����������@@����W�@����A�����B�@�J���bA��@�systemgetInfoenvironment
+
+simulatorapplenative
+
+showAlertWarning+Running IAP Badger in debug mode on deviceOk_y%W@���@@�
+
+�	��J	@���DT�L����	����D�F��FABF�Z�DF���AB�@\A!���googleitemnameconsumeAllPurchasesparams�?pairs	products
+
+productNamesconsumePurchase��D�@�D���ADF��@�F�@W���F�@FB����@��^�!������
+
+simulatorpairs	products
+
+productNames��D�@�D���@@���@�@��
+
+simulator	products
+
+productNames���@@����@����Ɓ@����@@�@������@����pairsproductIdentifiertransactionIdentifier��
+
+.W@�	�@D@�F�@����D��A�AA\AF�@��@�D�A��A�A��ABBFAF��\A�F�@��@�D�\A�F�@�@�D�A�AC�AƁ�\A�!���
+
+�pairsname
+
+loadProductsparams	callbackrestore
+
+emptyFlagpostRestoreListenertimeoutFunctioncancelTimeconsumeAllPurchases	purchaseproductList	listener��EDZ�E�@\@E��\@D��\@F�@���DZ��E�@\@B�HDZ��E��\@E�F��@��\@�DZ��E��\@B�^F�@��@�FCF@���@�DZ@�E��\@E��\@�DZ��E�\@J��@�A���A�A���B�A��C�C�@�@��C���C�I��I�����@�����I�ǆ���I��I@H�I�Ȍ�W���������@�@��@�
